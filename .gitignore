@@ -1,0 +1,6 @@
+*egg-info
+__pycache
+dist/
+*.pyc
+.venv/
+.Makefile.swp
